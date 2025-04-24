@@ -1,7 +1,7 @@
 #Installation
 
 1. Clone the repository:
-1.1 `git clone https://github.com/agl97/Dynamicore.git`
+1.1 `git clone https://github.com/AGL97/Dynamicore.git`
 2. Install the dependencies
 2.1 `npm install`
 3. Download Expo Go: 
