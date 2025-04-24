@@ -1,4 +1,4 @@
-#Installation
+Installation    
 
 1. Clone the repository: `git clone https://github.com/AGL97/Dynamicore.git`
 2. Install the dependencies `npm install`
